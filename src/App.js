@@ -12,7 +12,7 @@ function App() {
         <Card 
             img={card}
             rating="5.0"
-            reviewCount={(6)}
+            reviewCount={6}
             country="USA"
             title="Life Lessons with Katie Zaferes"
             price={136}
