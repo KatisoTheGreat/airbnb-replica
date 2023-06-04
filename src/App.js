@@ -18,7 +18,7 @@ function App() {
     return(
         <div>
         <Navbar />
-        {/* <Hero /> */}
+        <Hero />
         <section className="cards-list">
                 {cards}
         </section>
